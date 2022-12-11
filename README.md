@@ -1,4 +1,4 @@
-# surfs_up_prac
+# Surfs_up
 
 
 Module 9 
