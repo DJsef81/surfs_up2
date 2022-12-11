@@ -1,5 +1,4 @@
 # surfs_up_prac
-<<<<<<< HEAD
 
 
 Module 9 
@@ -54,5 +53,3 @@ In addition to the previous queries, I have also provided below two additional q
 
 ![](Jun_Prcp.png)
 ![](Dec_Prcp.png)
-=======
->>>>>>> de25db261dfaf8abc65dac156930e0cd04327e84
